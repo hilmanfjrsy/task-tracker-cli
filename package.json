@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "bin": {
-    "task-tracker": "./bin/index.js"
+    "task-cli": "./bin/index.js"
   },
   "type": "module",
   "dependencies": {
