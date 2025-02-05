@@ -1,0 +1,16 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hilmanfjrsy/task-tracker-cli.git",
+  "author": "Hilman Fajri Fahriansyah <hilmanfajri24@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "task-tracker": "./bin/index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
